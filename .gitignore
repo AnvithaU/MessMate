@@ -1,0 +1,11 @@
+**/node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+coverage/
+*.log
+server/data/*.db
+server/data/*.db-shm
+server/data/*.db-wal
